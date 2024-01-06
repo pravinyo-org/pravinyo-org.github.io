@@ -1,0 +1,7 @@
+---
+layout: default
+modal-id: 7
+img: drafting.jpg
+alt: image-alt
+category: Drafting of Documents (will, gift, agreement, etc.)
+---

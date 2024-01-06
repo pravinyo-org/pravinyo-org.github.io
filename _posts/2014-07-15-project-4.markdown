@@ -3,5 +3,5 @@ layout: default
 modal-id: 4
 img: marriage.jpg
 alt: image-alt
-category: Marriage
+category: Court Marriage (all community)
 ---
